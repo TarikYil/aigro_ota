@@ -1,6 +1,6 @@
 {
-    "channel":  "beta",
-    "url":  "https://raw.githubusercontent.com/TarikYil/aigro_ota/main/ota/beta/AIgro_Firmware.bin",
-    "version":  "1.0.1-beta.1",
-    "sha256":  "0249b367cb2d75394e9220315a1eb7679ff7f39316a697491af9dcaeb105b0d0"
+  "version": "1.0.1-beta.4",
+  "url": "https://raw.githubusercontent.com/TarikYil/aigro_ota/main/ota/beta/1.0.1-beta.4/AIgro_Firmware.bin",
+  "sha256": "2d4a489ad771bb4eaabeb1273276cd7edc7905283b213ded2625000e0c8b2936",
+  "channel": "beta"
 }
