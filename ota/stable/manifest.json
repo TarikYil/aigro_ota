@@ -1,0 +1,6 @@
+{
+    "channel":  "stable",
+    "url":  "https://raw.githubusercontent.com/TarikYil/aigro_ota/main/ota/stable/AIgro_Firmware.bin",
+    "version":  "1.0.0",
+    "sha256":  "0000000000000000000000000000000000000000000000000000000000000000"
+}
