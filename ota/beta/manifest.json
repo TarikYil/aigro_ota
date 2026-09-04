@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11-beta.10-usbdiag",
-  "url": "https://raw.githubusercontent.com/TarikYil/aigro_ota/main/ota/beta/1.0.11-beta.10-usbdiag/AIgro_Firmware.bin",
-  "sha256": "8d39709028e4ec2cecf525846fd303a8ea9018964766ed8c40741157808217e8",
+  "version": "1.0.11-beta.11-usbdiag",
+  "url": "https://raw.githubusercontent.com/TarikYil/aigro_ota/main/ota/beta/1.0.11-beta.11-usbdiag/AIgro_Firmware.bin",
+  "sha256": "a2ef0cf35db4f69619d53948dcd2541a6cf018f672ca818ba5a11d0177bbb722",
   "channel": "beta"
 }
